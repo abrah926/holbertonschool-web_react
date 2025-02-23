@@ -34,6 +34,6 @@ studentsList.forEach(student => {
     const row = table.insertRow();
     row.innerHTML = `<td>${student.firstName}</td><td>${student.location}</td>`;
 });
-c
+
 // Append the table to the body
 document.body.appendChild(table);
