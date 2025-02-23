@@ -1,0 +1,14 @@
+# Node.js
+node_modules/
+package-lock.json
+
+# Build
+dist/
+build/
+
+# IDE and Editor settings
+.vscode/
+.idea/
+
+# System files
+.DS_Store
